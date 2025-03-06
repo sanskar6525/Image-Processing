@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+celery
+redis
+pandas
+python-dotenv
+requests
+pillow
